@@ -1,3 +1,3 @@
-# Contracts
+# Photocentra Smart Contracts
 
-Photocentra token
+Photocentra token contract
